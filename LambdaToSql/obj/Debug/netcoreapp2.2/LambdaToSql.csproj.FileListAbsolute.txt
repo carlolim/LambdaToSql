@@ -6,4 +6,3 @@ C:\Users\cjlim\Source\Repos\LambdaToSql\LambdaToSql\obj\Debug\netcoreapp2.2\Lamb
 C:\Users\cjlim\Source\Repos\LambdaToSql\LambdaToSql\bin\Debug\netcoreapp2.2\LambdaToSql.pdb
 C:\Users\cjlim\Source\Repos\LambdaToSql\LambdaToSql\obj\Debug\netcoreapp2.2\LambdaToSql.dll
 C:\Users\cjlim\Source\Repos\LambdaToSql\LambdaToSql\obj\Debug\netcoreapp2.2\LambdaToSql.pdb
-C:\Users\cjlim\Source\Repos\LambdaToSql\LambdaToSql\obj\Debug\netcoreapp2.2\LambdaToSql.csprojAssemblyReference.cache
