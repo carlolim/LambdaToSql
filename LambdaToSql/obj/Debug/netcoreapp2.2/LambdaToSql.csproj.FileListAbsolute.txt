@@ -1,8 +1,0 @@
-C:\Users\cjlim\Source\Repos\LambdaToSql\LambdaToSql\bin\Debug\netcoreapp2.2\LambdaToSql.deps.json
-C:\Users\cjlim\Source\Repos\LambdaToSql\LambdaToSql\bin\Debug\netcoreapp2.2\LambdaToSql.dll
-C:\Users\cjlim\Source\Repos\LambdaToSql\LambdaToSql\obj\Debug\netcoreapp2.2\LambdaToSql.csproj.CoreCompileInputs.cache
-C:\Users\cjlim\Source\Repos\LambdaToSql\LambdaToSql\obj\Debug\netcoreapp2.2\LambdaToSql.AssemblyInfoInputs.cache
-C:\Users\cjlim\Source\Repos\LambdaToSql\LambdaToSql\obj\Debug\netcoreapp2.2\LambdaToSql.AssemblyInfo.cs
-C:\Users\cjlim\Source\Repos\LambdaToSql\LambdaToSql\bin\Debug\netcoreapp2.2\LambdaToSql.pdb
-C:\Users\cjlim\Source\Repos\LambdaToSql\LambdaToSql\obj\Debug\netcoreapp2.2\LambdaToSql.dll
-C:\Users\cjlim\Source\Repos\LambdaToSql\LambdaToSql\obj\Debug\netcoreapp2.2\LambdaToSql.pdb
