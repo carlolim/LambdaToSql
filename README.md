@@ -1,4 +1,5 @@
 # LambdaToSql
+[![Build Status](https://travis-ci.org/carlolim/LambdaToSql.svg?branch=master)](https://travis-ci.org/carlolim/LambdaToSql)
 
 LambdaToSql is library that converts lambda expression to sql string. 
 
