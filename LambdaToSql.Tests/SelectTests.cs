@@ -1,6 +1,5 @@
 using Dapper;
 using LambdaToSql;
-using LambdaToSql.SproutRecruitApi.Core.Extensions;
 using LambdaToSql.Tests.Entities;
 using NUnit.Framework;
 using System;
